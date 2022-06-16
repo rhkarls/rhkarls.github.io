@@ -16,7 +16,7 @@ A small visualization package producing empirical and exceedance probability/fre
 Can for example be used to visualize exceedance frequency at different times of the year for streamflow timeseries. Basically a flow-duration curve for each day of the year:
 
 ![fdc_eplines](assets/discharge_exceedance_example.png)
-
+The above graph shows the cumulative frequency of streamflow for each day of the year, so how often specified discharges were equaled or exceeded over the year. Low flows are execeeded often with values closer to 1, with 1 being exceeded 100% of the time. Extreme high flows occur less seldom has lower exceedance frequency.
 
 Or the frequency distribution over the year for air temperature time series:
 
