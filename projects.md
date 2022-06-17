@@ -4,7 +4,10 @@ title: Projects
 permalink: /projects/
 ---
 
-# Some projects that are currently on Github
+{% comment %} [Code projects currently on Github](#code-projects-currently-on-github)
+{% endcomment %}
+
+# Code projects currently on Github
 
 ## eplines
 [eplines repository](https://github.com/rhkarls/eplines)
@@ -36,7 +39,7 @@ Similar to eplines, this is a small visualization package producing kernel densi
 
 [sondera on pypi](https://pypi.org/project/sondera/)
 
-sondera is a python package providing clients for accessing Swedish hydrology and meteorology related open data. Currently supports SMHI metobs and hydroobs APIs for meteorological and hydrological observations, and basic support for SGU groundwater levels. 
+sondera is a python package providing clients for accessing Swedish hydrology and meteorology related open data. Currently supports SMHI metobs and hydroobs API for meteorological and hydrological observations, and basic support for SGU groundwater levels. 
 
 sondera is currently at a very early stage.
 ## gohbv
@@ -50,9 +53,9 @@ Future plan is to provide a cli for gohbv and make the model more user friendly.
 ## stevens-connect-client
 [stevens-connect-client repository](https://github.com/rhkarls/stevens-connect-client)
 
-Python client for Stevens Connect (https://stevens-connect.com/) cloud data acquisition system. Currently supports data retrival to pandas Series and DataFrames.
+Python client for Stevens Connect API ([https://stevens-connect.com/](https://stevens-connect.com/)) cloud data acquisition system. Currently supports data retrival to pandas Series and DataFrames.
 
 ## sensormanager-client
 [sensormanager-client repository](https://github.com/rhkarls/sensormanager-client)
 
-Python client for sensormanager.net cloud data acquisition platform. This project was an interesting learning experience since the API is not documented or officially supported, and the authentication and data retrival which this client provides has been reverse-engineered.
+Python API client for sensormanager.net cloud data acquisition platform. This project was an interesting learning experience since the API is not documented or officially supported, and the authentication and data retrival which this client provides has been reverse-engineered.
