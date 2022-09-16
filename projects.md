@@ -14,7 +14,7 @@ permalink: /projects/
 
 [eplines on pypi](https://pypi.org/project/eplines/)
 
-A small visualization package producing empirical and exceedance probability/frequency heatmaps of many or long time-series.
+A small visualization package producing empirical and exceedance probability/frequency heatmaps and cycle plot of many or long time-series.
 
 Can for example be used to visualize exceedance frequency at different times of the year for streamflow timeseries. Basically a flow-duration curve for each day of the year:
 
@@ -39,14 +39,14 @@ Similar to eplines, this is a small visualization package producing kernel densi
 
 [sondera on pypi](https://pypi.org/project/sondera/)
 
-sondera is a python package providing clients for accessing Swedish hydrology and meteorology related open data. Currently supports SMHI metobs and hydroobs API for meteorological and hydrological observations, and basic support for SGU groundwater levels. 
+sondera is a python package providing clients for accessing Swedish hydrology and meteorology related open data. Currently supports SMHI open data APIs metobs and hydroobs for meteorological and hydrological observations, and basic support for SGU groundwater levels. 
 
-sondera is currently at a very early stage.
+sondera is currently at a very early stage, but functional for basic retrival of data.
 ## gohbv
 [gohbv repository](https://github.com/rhkarls/gohbv)
 
 
-This is a go (golang) implementation of the HBV hydrological model. The aim of this project was to learn go. The current state is quite rough, but the model works.
+This is a go (golang) implementation of the HBV hydrological model. The aim of this project was to learn go. The current state is quite rough, but the model is functional.
 
 Future plan is to provide a cli for gohbv and make the model more user friendly.
 
