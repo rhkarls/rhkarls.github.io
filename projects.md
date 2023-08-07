@@ -53,7 +53,7 @@ Future plan is to provide a cli for gohbv and make the model more user friendly.
 ## stevens-connect-client
 [stevens-connect-client repository](https://github.com/rhkarls/stevens-connect-client)
 
-Python client for Stevens Connect API ([https://stevens-connect.com/](https://stevens-connect.com/)) cloud data acquisition system. Currently supports data retrival to pandas Series and DataFrames.
+Python API client for Stevens-Connect ([https://stevens-connect.com/](https://stevens-connect.com/)) cloud data acquisition system. Currently supports data retrival to pandas Series and DataFrames.
 
 ## sensormanager-client
 [sensormanager-client repository](https://github.com/rhkarls/sensormanager-client)
