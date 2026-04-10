@@ -1,0 +1,26 @@
+{{- if and .IsPage (or (eq .File.Path "page/about.md") (eq .File.Path "page/cv.md")) }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "{{ .Site.BaseURL }}#person",
+  "name": "Reinert Huseby Karlsen",
+  "jobTitle": "Senior Hydrologist",
+  "description": "Senior hydrologist and Python developer specialising in catchment hydrology, hydrological modelling, GIS, and open-source environmental data tools.",
+  "url": "{{ .Site.BaseURL }}",
+  "sameAs": [
+    "https://github.com/rhkarls"
+  ],
+  "knowsAbout": [
+    "Hydrology",
+    "Catchment hydrology",
+    "Hydrological modelling",
+    "Meteorology",
+    "GIS",
+    "Python",
+    "Environmental data analysis"
+  ]
+}
+</script>
+{{- end }}
+

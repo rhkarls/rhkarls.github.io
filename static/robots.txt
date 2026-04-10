@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rhkarls.github.io/sitemap.xml
+

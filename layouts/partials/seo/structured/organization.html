@@ -1,0 +1,14 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": {{ .Site.Params.organizationName | default .Site.Params.Author.name }},
+  "@id": {{ printf "%s#organization" .Site.BaseURL }},
+  "url": {{ .Site.BaseURL }}
+  {{- with .Site.Params.socialProfiles }}, "sameAs": {{ . }}{{ end }}
+  {{- with .Site.Params.organizationLogo }}, "logo": {{ . }}{{ end }}
+  {{- with .Site.Params.organizationAddress }}, "address": {{ . }}{{ end }}
+  {{- with hugo.Data.organization.contacts.contactPoint }}, "contactPoint": {{ . }}{{ end }}
+}
+</script>
+
