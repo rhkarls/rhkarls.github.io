@@ -8,7 +8,7 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [Params]
-  subtitle = "Python projects"
+  subtitle = "Hydrologist and python developer"
   mainSections = []
   dateFormat = "January 2, 2006"
   commit = false
