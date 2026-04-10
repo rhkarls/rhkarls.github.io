@@ -2,6 +2,7 @@
 title: "Projects"
 subtitle: "Open-source code projects on GitHub"
 comments: false
+lastmod: 2026-04-10
 ---
 
 # Code projects currently on GitHub
