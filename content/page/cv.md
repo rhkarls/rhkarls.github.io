@@ -77,21 +77,21 @@ Karimi S., Leach J., **Karlsen R.H.**, Seibert J., Bishop K., Laudon H. 2023. *L
 
 Strandberg J., **Karlsen R.H.**, Malmaeus M., Olshammar M., Valley S., Lind E., … Fridén H. 2020. *Dricksvattenproduktion när spelreglerna ändras – Digitalisering och automation som hjälp för klimatanpassning.* Series B report, IVL Svenska Miljöinstitutet. [Link to report (diva)](http://urn.kb.se/resolve?urn=urn:nbn:se:ivl:diva-2791)
 
-**Karlsen R.H.**, Bishop K., Grabs T., Ottosson-Löfvenius M., Laudon H., Seibert J. 2019. *The role of landscape properties, storage and evapotranspiration on variability in streamflow recessions in a boreal catchment.* Journal of Hydrology 570: 315–328.
+**Karlsen R.H.**, Bishop K., Grabs T., Ottosson-Löfvenius M., Laudon H., Seibert J. 2019. *The role of landscape properties, storage and evapotranspiration on variability in streamflow recessions in a boreal catchment.* Journal of Hydrology 570: 315–328. DOI: [10.1016/j.jhydrol.2018.12.065](https://doi.org/10.1016/j.jhydrol.2018.12.065)
 
-Teutschbein C., Grabs T., Laudon H., **Karlsen R.H.**, Bishop K. 2018. *Simulating streamflow in ungauged basins under a changing climate: The importance of landscape characteristics.* Journal of Hydrology 561: 160–178.
+Teutschbein C., Grabs T., Laudon H., **Karlsen R.H.**, Bishop K. 2018. *Simulating streamflow in ungauged basins under a changing climate: The importance of landscape characteristics.* Journal of Hydrology 561: 160–178. DOI: [10.1016/j.jhydrol.2018.03.060](https://doi.org/10.1016/j.jhydrol.2018.03.060)
 
-Jutebring Sterte E., Johansson E., Sjöberg Y., **Karlsen R.H.**, Laudon H. 2018. *Groundwater-surface water interactions across scales in a boreal landscape investigated using a numerical modelling approach.* Journal of Hydrology 560: 184–201.
+Jutebring Sterte E., Johansson E., Sjöberg Y., **Karlsen R.H.**, Laudon H. 2018. *Groundwater-surface water interactions across scales in a boreal landscape investigated using a numerical modelling approach.* Journal of Hydrology 560: 184–201. DOI: [10.1016/j.jhydrol.2018.03.011](https://doi.org/10.1016/j.jhydrol.2018.03.011)
 
-**Karlsen R.H.**, Grabs T., Bishop K., Buffam I., Laudon H., Seibert J. 2016. *Landscape controls on spatiotemporal discharge variability in a boreal catchment.* Water Resources Research 52(8): 6541–6556.
+**Karlsen R.H.**, Grabs T., Bishop K., Buffam I., Laudon H., Seibert J. 2016. *Landscape controls on spatiotemporal discharge variability in a boreal catchment.* Water Resources Research 52(8): 6541–6556. DOI: [10.1002/2016WR019186](https://doi.org/10.1002/2016WR019186)
 
-**Karlsen R.H.**, Seibert J., Grabs T., Laudon H., Blomkvist P., Bishop K. 2016. *The assumption of uniform specific discharge: unsafe at any time?* Hydrological Processes 30(21): 3978–3988.
+**Karlsen R.H.**, Seibert J., Grabs T., Laudon H., Blomkvist P., Bishop K. 2016. *The assumption of uniform specific discharge: unsafe at any time?* Hydrological Processes 30(21): 3978–3988. DOI: [10.1002/hyp.10877](https://doi.org/10.1002/hyp.10877)
 
-Winterdahl M., Wallin M.B., **Karlsen R.H.**, Laudon H., Öquist M., Lyon S.W. 2016. *Decoupling of carbon dioxide and dissolved organic carbon in boreal headwater streams.* Journal of Geophysical Research: Biogeosciences 121(10): 2630–2651.
+Winterdahl M., Wallin M.B., **Karlsen R.H.**, Laudon H., Öquist M., Lyon S.W. 2016. *Decoupling of carbon dioxide and dissolved organic carbon in boreal headwater streams.* Journal of Geophysical Research: Biogeosciences 121(10): 2630–2651. DOI: [10.1002/2016JG003420](https://doi.org/10.1002/2016JG003420)
 
-Teutschbein C., Grabs T., **Karlsen R.H.**, Laudon H., Bishop K. 2015. *Hydrological response to changing climate conditions: Spatial streamflow variability in the boreal region.* Water Resources Research 51(12): 9425–9446.
+Teutschbein C., Grabs T., **Karlsen R.H.**, Laudon H., Bishop K. 2015. *Hydrological response to changing climate conditions: Spatial streamflow variability in the boreal region.* Water Resources Research 51(12): 9425–9446. DOI: [10.1002/2015WR017337](https://doi.org/10.1002/2015WR017337)
 
-**Karlsen R.H.**, Smits F., Stuyfzand P., Olsthoorn T.N., van Breukelen B.M. 2012. *A post audit and inverse modeling in reactive transport: 50 years of artificial recharge in the Amsterdam Water Supply Dunes.* Journal of Hydrology 454–455: 7–25.
+**Karlsen R.H.**, Smits F., Stuyfzand P., Olsthoorn T.N., van Breukelen B.M. 2012. *A post audit and inverse modeling in reactive transport: 50 years of artificial recharge in the Amsterdam Water Supply Dunes.* Journal of Hydrology 454–455: 7–25. DOI: [10.1016/j.jhydrol.2012.05.019](https://doi.org/10.1016/j.jhydrol.2012.05.019)
 
 **Karlsen R.H.** 2016. *Spatiotemporal streamflow variability in a boreal landscape: Importance of landscape composition for catchment hydrological functioning.* PhD thesis, Uppsala University. Supervisors: J. Seibert, K. Bishop, T. Grabs. [Link to thesis (diva)](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-302400)
 
