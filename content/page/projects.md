@@ -1,6 +1,7 @@
 ---
 title: "Projects"
 subtitle: "Open-source code projects on GitHub"
+description: "Open-source Python and Go projects by Reinert Huseby Karlsen – including eplines, kdlines, sondera, and gohbv for hydrology, meteorology, and time-series visualisation."
 comments: false
 lastmod: 2026-04-10
 ---
@@ -14,13 +15,13 @@ A small visualization package producing empirical and exceedance probability/fre
 
 Can for example be used to visualize exceedance frequency at different times of the year for streamflow time series — basically a flow-duration curve for each day of the year:
 
-![fdc_eplines](/img/discharge_exceedance_example.png)
+![Discharge exceedance frequency heatmap showing cumulative frequency of streamflow for each day of the year](/img/discharge_exceedance_example.png)
 
 The above graph shows the cumulative frequency of streamflow for each day of the year: how often specified discharges were equaled or exceeded. Low flows are exceeded often (values close to 1, with 1 meaning exceeded 100% of the time). Extreme high flows occur less often and have lower exceedance frequency.
 
 Or the frequency distribution over the year for air temperature time series:
 
-![ta_eplines](/img/temperature_ecdf_example.png)
+![Empirical cumulative distribution function heatmap of daily air temperature across the year](/img/temperature_ecdf_example.png)
 
 ---
 

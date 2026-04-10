@@ -1,6 +1,7 @@
 ---
 title: "About"
 subtitle: "Reinert Huseby Karlsen"
+description: "About Reinert Huseby Karlsen – senior hydrologist researcher and Python developer specialising in open-source tools for hydrology, meteorology, and GIS."
 comments: false
 lastmod: 2026-04-10
 ---

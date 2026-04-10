@@ -1,6 +1,7 @@
 ---
 title: "CV"
 subtitle: "Curriculum Vitae"
+description: "Curriculum Vitae of Reinert Huseby Karlsen – senior hydrologist with a PhD from Uppsala University and 10+ years of experience in catchment hydrology, GIS, hydrological modelling, and Python development."
 comments: false
 date: 2026-04-10
 lastmod: 2026-04-10
