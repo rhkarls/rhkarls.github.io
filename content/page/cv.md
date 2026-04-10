@@ -10,15 +10,17 @@ lastmod: 2026-04-10
 
 📍 Sweden/Norway &nbsp;|&nbsp; ✉️ [rhkarls@proton.me](mailto:rhkarls@proton.me) &nbsp;|&nbsp; 🐙 [github.com/rhkarls](https://github.com/rhkarls)
 
+[Work Experience](#work-experience) &nbsp;·&nbsp; [Education](#education) &nbsp;·&nbsp; [Publications](#publications) &nbsp;·&nbsp; [Technical Skills](#technical-skills)
+
 ---
 
 I am a senior hydrologist with more than 10 years of experience in hydrological research and investigations. 
 My academic research has focused on catchment hydrology and runoff processes, and on the importance of landscape composition 
-for partitioning of water, water storage and runoff dynamics. I work mainly with data analysis, geographical information systems (GIS), 
-field measurements and hydrological modelling. I have extensive experience with field measurement techniques and instrumentation for 
-surface water, as well as the processing, quality control and quality assurance of water level and discharge timeseries in particular, 
+for partitioning of water, water storage, and runoff dynamics. I work mainly with data analysis, geographical information systems (GIS), 
+field measurements, and hydrological modelling. I have extensive experience with field measurement techniques and instrumentation for 
+surface water, as well as the processing, quality control, and quality assurance of water level and discharge timeseries in particular, 
 as well as other types of hydrometeorological data. I enjoy programming and make extensive use of Python for data management, pipelines, 
-analysis, hydrological modelling and general purpose programming. 
+analysis, hydrological modelling, and general purpose programming. 
 Apart from broad field experience within a Nordic setting, I have also worked in the Netherlands and Mexico.
 
 ---
@@ -42,7 +44,7 @@ Developing protocols and methods for processing stream flow time series data for
 
 **Research Assistantship** · Uppsala University · Uppsala, Sweden  
 *September 2011 – October 2016*  
-Part-time assistantship in parallel to doctoral studies, including lecturing, teaching assistance, project work, data management and public outreach.
+Part-time assistantship in parallel to doctoral studies, including lecturing, teaching assistance, project work, data management, and public outreach.
 
 **Research Internship** · Waternet · Leiduin, The Netherlands  
 *January 2009 – August 2011*  
@@ -65,7 +67,7 @@ Including exchange semester at Autonomous University of Barcelona, Spain, Dept. 
 
 ## Publications
 
-Nijp J.J., **Karlsen R.H.**, Nilsson M.B., Bishop K. 2025. *Ecohydrological feedbacks increase water storage, streamflow and resilience of natural peatlands.* Journal of Hydrology 664: Part A. DOI: [10.1016/j.jhydrol.2025.134282](https://doi.org/10.1016/j.jhydrol.2025.134282)
+Nijp J.J., **Karlsen R.H.**, Nilsson M.B., Bishop K. 2025. *Ecohydrological feedbacks increase water storage, streamflow, and resilience of natural peatlands.* Journal of Hydrology 664: Part A. DOI: [10.1016/j.jhydrol.2025.134282](https://doi.org/10.1016/j.jhydrol.2025.134282)
 
 **Karlsen R.H.**, Westerberg I. 2025. *Vattenföringsmätningar i Rakkurijokis avrinningsområde: Årsrapport för 2024.* Series C report, IVL Svenska Miljöinstitutet. [Link to report (diva)](https://urn.kb.se/resolve?urn=urn:nbn:se:ivl:diva-4660)
 
