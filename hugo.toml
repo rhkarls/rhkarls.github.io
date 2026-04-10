@@ -12,7 +12,6 @@ pygmentsCodefencesGuessSyntax = true
   subtitle = "Hydrologist and Python developer"
   description = "Personal page of Reinert Huseby Karlsen – senior hydrologist and Python developer building open-source tools for hydrology, meteorology, and GIS."
   logo = "/img/avatar-icon.png"
-  favicon = "/img/favicon.ico"
   socialProfiles = ["https://github.com/rhkarls"]
   mainSections = []
   dateFormat = "January 2, 2006"
