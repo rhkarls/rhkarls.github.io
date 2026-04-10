@@ -1,0 +1,40 @@
+baseurl = "https://rhkarls.github.io"
+DefaultContentLanguage = "en"
+title = "Reinert Huseby Karlsen"
+theme = "beautifulhugo"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+[Params]
+  subtitle = "Python projects"
+  mainSections = []
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = false
+  comments = false
+  readingTime = false
+  wordCount = false
+  socialShare = false
+  showRelatedPosts = false
+
+[Params.author]
+  name = "Reinert Huseby Karlsen"
+  github = "rhkarls"
+
+[[menu.main]]
+  name = "Projects"
+  url = "page/projects/"
+  weight = 1
+
+[[menu.main]]
+  name = "CV"
+  url = "page/cv/"
+  weight = 2
+
+[[menu.main]]
+  name = "About"
+  url = "page/about/"
+  weight = 3
+

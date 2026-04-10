@@ -4,3 +4,7 @@ _site
 .jekyll-metadata
 vendor
 .private_notes.txt
+themes
+public
+.idea
+.hugo_build.lock
